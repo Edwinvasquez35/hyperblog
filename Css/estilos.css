@@ -6,6 +6,23 @@ body
     font-size: 16 px;
     padding: 0;
 }
+
+#cabecera
+{
+    background: rgb(93, 93, 109);
+    color: rgb(197, 209, 233);
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+
 #container
 {
     width: 70%;
@@ -19,3 +36,8 @@ body
 {
     font-size: 20px;
 } 
+
+#post
+{
+    padding: 1em
+}
